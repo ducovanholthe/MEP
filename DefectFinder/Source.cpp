@@ -316,7 +316,7 @@ int main()
 			distance.clear(); //clear distance vector
 
 			if (ts % 500 == 0)
-				cout << "At time " << ts << " nop is " << nop  << endl;
+				cout << "At time " << ts << " nop is " << nop << endl;
 
 			ts++;
 		}
